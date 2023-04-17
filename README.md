@@ -1,14 +1,9 @@
 ![logo](https://github.com/tha37/thiha/blob/main/CodeCafe-01.jpg)
 
 <h1 align="center">Hi 👋, Thiha</h1>
-<h3 align="center">A passionate frontend developer from Myanmar</h3>
+<h3 align="center">I am currently a student BEHS No.1 Dagon</h3>
 <img align="right" alt="cdoing" width="400" src="https://media.tenor.com/VvYRglhVQEMAAAAd/robot-hi.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rgraves0&label=Profile%20views&color=0e75b6&style=flat" alt="rgraves0" /> </p>
-
-<h1 align="center">Hi 👋, I'm Thiha</h1>
-<h3 align="center">I am currently a student BEHS No.1 Dagon🙄🥴</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kchocho&label=Profile%20views&color=0e75b6&style=flat" alt="kchocho" /> </p>
 
 - 🔭 I’m currently working on **secret project**
 
