@@ -1,5 +1,4 @@
 ![logo](https://github.com/tha37/thiha/blob/main/CodeCafe-01.jpg)
-
 <h1 align="center">Hi 👋, Thiha</h1>
 <h3 align="center">I am currently a student BEHS No.1 Dagon</h3>
 <img align="right" alt="cdoing" width="400" src="https://media.tenor.com/VvYRglhVQEMAAAAd/robot-hi.gif">
